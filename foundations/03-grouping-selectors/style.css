@@ -1,11 +1,12 @@
-.one {
-    font-size: 28px;
-    font-family: Helvetica, Times New Roman, sans-serif;
-}
+.one,
 .two {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.one {
     background-color: black;
     color: rgb(245, 246, 248);
 }
-.three {
+.two {
     background-color: yellow;
 }
